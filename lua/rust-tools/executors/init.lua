@@ -10,6 +10,6 @@ M.termopen = termopen
 M.quickfix = quickfix
 M.toggleterm = toggleterm
 M.vimux = vimux
-M.floater = floaterm
+M.floaterm = floaterm
 
 return M
